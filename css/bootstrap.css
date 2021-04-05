@@ -476,6 +476,8 @@ pre code {
 display: none;
 }
 
+#gallery {display:none;}
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -484,6 +486,9 @@ display: none;
 }
 
 @media (min-width: 768px) {
+
+#gallery {display:block;}
+
   .container {
     max-width: 720px;
   }
