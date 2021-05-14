@@ -325,11 +325,11 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.65rem;
+  font-size: 1.75rem;
   line-height:1.5;
 }
 
-.lead2 {font-size:1.1rem;
+.lead2 {font-size:1.25rem;
 }
 
 .display-1 {
@@ -2884,10 +2884,9 @@ background-color: #425c36;
 }
 
 .btn-sm, .btn-group-sm > .btn {
-    padding: 0.5rem 2rem;
-    font-size: 1rem;
+    padding: 0.75rem 2rem;
+    font-size: 1.1rem;
     line-height: 1.5;
-    letter-spacing: 1px;
 }
 
 .btn-block {
