@@ -2,6 +2,7 @@
      position: relative;
      background-color: #ffffff;
 }
+
 /* Hero Section*/
 .wordmark { width:100%; margin:0 auto 1rem !important; background:url(../img/shawntaylor.svg) 50% 50% / contain no-repeat; z-index:999; text-indent: -9999px; }
 
