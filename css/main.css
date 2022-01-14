@@ -15,16 +15,17 @@
 }
  .bg-image {
      top: 0;
-     left: -30%;
+     left: -17%;
      width: 130%;
      height: 100%;
      z-index: 0;
      object-fit: cover;
      position: absolute;
+     height:100vh;
 }
 
  .min-vh-80 {
-     padding-top: 14rem;
+     padding-top: 28rem;
      padding-bottom: 8rem;
 }
  .navbar-expand-lg .navbar-logo {
@@ -90,8 +91,9 @@
      bottom: 0;
      z-index: 1;
      width: 100%;
-     height: 100%;
+     height: 100vh;
      content: "";
+     
 }
  a, ::before {
      transition: all 0.3s ease 0s;
